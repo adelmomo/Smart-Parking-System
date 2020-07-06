@@ -1,0 +1,1 @@
+in order to run SPS project you need to run gui.py pyhon code, gui.py is the main code of this project.
