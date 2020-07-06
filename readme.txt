@@ -1,1 +1,2 @@
-in order to run SPS project you need to run gui.py pyhon code, gui.py is the main code of this project.
+The deep neural network is splitted into 3 submodels. In order to run SPS project you need to: 1) Download the model's weights that are in "https://drive.google.com/drive/folders/1CKxGYKerCtdcTqmun24-UVY7BwXw3E5h?usp=sharing" 2) run "gui.py" pyhon code, gui.py is the main code of this project.
+You can run SPS project on your phone by installing the "webcam" android application, then run "Camera.py" python code instead of "gui.py"
